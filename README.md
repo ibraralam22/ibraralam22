@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alam-Ibrar-au26" alt="Ibrar Alam" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibraralam22" alt="Ibrar Alam" /> </p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ibrar+Alam....;Nice+to+meet+you!&center=true&size=30">
     <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
@@ -52,14 +52,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/alam1561/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ibrar Alam" height="30" width="40" /></a>
 <a href="https://instagram.com/alamsnaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alamsnaps" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Ibrar_Alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
-</p>
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alam-Ibrar-au26&show_icons=true&locale=en&layout=compact" alt="Alam-Ibrar-au26" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibraralam22&show_icons=true&locale=en&layout=compact" alt="ibraralam22" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alam-Ibrar-au26&show_icons=true&locale=en" alt="Alam-Ibrar-au26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibraralam22&show_icons=true&locale=en" alt="ibraralam22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alam-Ibrar-au26&" alt="Alam-Ibrar-au26" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibraralam22&" alt="ibraralam22" /></p>
