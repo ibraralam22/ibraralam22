@@ -82,4 +82,4 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<h4>Updating Soon...<h4/>
+<h3>Loading...<h3/>
