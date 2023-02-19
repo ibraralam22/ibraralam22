@@ -47,7 +47,7 @@
     <a href="#"><img alt="GIT" src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>  
 </p>
-
+<p> <br/><p/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
