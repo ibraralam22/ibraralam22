@@ -48,11 +48,13 @@
     <a href="#"><img alt="GitHub" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>  
 </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alam1561/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ibrar Alam" height="30" width="40" /></a>
 <a href="https://instagram.com/alamsnaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alamsnaps" height="30" width="40" /></a>
 
+  
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibraralam22&show_icons=true&locale=en&layout=compact" alt="ibraralam22" />
