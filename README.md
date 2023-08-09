@@ -1,9 +1,9 @@
 ![logo](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 
 <h1 align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrakashChand07" alt="Prakash Chand" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibraralam22" alt="Ibrar Alam" /> </p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Prakash+Chand....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ibrar+Alam....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
   
@@ -16,14 +16,6 @@
 - 📫 How to reach me **ibrar.alam2k22@gmail.com**
 
 - ⚡ Fun fact *I love traveling and Photography*
-
-<h1 align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibraralam22" alt="Ibrar Alam" /> </p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ibrar+Alam....;Nice+to+meet+you!&center=true&size=30">
-    <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
-  </a>
-</h1>
 
 ## 🛠️ My favorite tools
 
@@ -45,6 +37,7 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="JWT/JSON" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
     <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
