@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently *Full Stack Web Developer*
   
-- 🔭 I’m currently working on [ShoppingHub](https://github.com/ibraralam22/ShoppingHub)
+- 🔭 I’m currently working on [Leetcode-Questions](https://github.com/ibraralam22/Leetcode-Solved-Questions)
 
 - 🧑‍🎓 I’m currently learning **Next.js**
 
