@@ -15,8 +15,6 @@
   
 - 🔭 I’m currently working on [Leetcode-Questions](https://github.com/ibraralam22/Leetcode-Solved-Questions)
 
-- 🧑‍🎓 I’m currently learning **Next.js**
-
 - 👯 I’m looking to collaborate on **Backend & Frontend Development**
 
 - 📫 How to reach me **ibrar.alam2k22@gmail.com**
