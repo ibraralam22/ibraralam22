@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently *Full Stack Web Developer*
   
-- 🔭 I’m currently working on [Leetcode-Questions](https://github.com/ibraralam22/Leetcode-Solved-Questions)
+- 🔭 I’m currently working on [Leetcode-GFG-Questions](https://github.com/ibraralam22/Leetcode-GFG-Questions)
 
 - 👯 I’m looking to collaborate on **Backend & Frontend Development**
 
