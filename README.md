@@ -13,15 +13,15 @@
 
 - 🌱 I’m currently *Full Stack Web Developer*
   
-- 🔭 I’m currently working on [Leetcode-GFG-Questions](https://github.com/ibraralam22/Leetcode-GFG-Questions)
+- 🔭 I’m currently working on Web Development
 
-- 👯 I’m looking to collaborate on **Backend & Frontend Development**
+- 👯 I’m looking to collaborate on ** Frontend & Backend Development**
 
-- 📫 How to reach me **ibrar.alam2k22@gmail.com**
+- 📫 How to reach me ** Linkedin - @ibraralam22**
 
 - 🔥 Hobbies *I love Traveling and Photography📷*
 
-- ⚡ Fun fact *I like the way I am 😍*
+- ⚡ Fun fact *There is no fun fact*
 
 
 ## 👨‍💻🛠️ Programming Languages & Tools:
