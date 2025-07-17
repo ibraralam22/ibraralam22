@@ -18,11 +18,17 @@
 
 ## 🔭 About Me
 
-- 🏠 Based in India  
-- 🎓 Full Stack Developer with expertise in Flutter, React & Node.js  
+- 🏠 Based in Delhi, India  
+- 🎓 Software Engineer
 - ⚡️ Vibe Coder: I bring apps to life with smooth animations & real-time features  
 - 🌱 Continuously exploring modern architectures (Clean, BLoC, MVVM)  
 - 📫 Get in touch:  
+  <a href="https://github.com/ibraralam22" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/__ibraralam" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://linkedin.com/in/ibraralam22"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ibrar@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email"/></a>
 
