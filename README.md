@@ -1,57 +1,236 @@
-<h1 align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibraralam22" alt="Ibrar Alam" /> </p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ibrar+Alam....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<div align="center">
   
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<br><br>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-- 🌱 I’m currently *Full Stack Web Developer*
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=ibraralam22&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
   
-- 🔭 I’m currently working on Web Development
-
-- 👯 I’m looking to collaborate on ** Frontend & Backend Development**
-
-- 📫 How to reach me ** Linkedin - @ibraralam22**
-
-- 🔥 Hobbies *I love Traveling and Photography📷*
-
-- ⚡ Fun fact *There is no fun fact*
-<br><br><br><br><br>
-
-## 👨‍💻🛠️ Programming Languages & Tools:
-
-
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alam1561/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alam1561/" height="40" width="40" /></a>
-<a href="https://www.instagram.com/hi_ibraralam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hi_ibraralam/" height="40" width="40" /></a>
-<a href="https://leetcode.com/ibraralam22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ibraralam22/" height="40" width="40" /></a>
-</p>
-  
-
-
-## 🔥 Streak stats
-
-<div align=center>
-    <a href="https://github.com/ibraralam22/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=405 src="https://github-readme-streak-stats.herokuapp.com/?user=ibraralam22&theme=midnight-purple&hide_border=true" alt="ibrar-alam" />
+  <!-- Animated Header -->
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Ibrar+Alam;Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;&center=true&width=500&height=60&size=28&duration=4000&pause=1000&color=6366f1&background=00000000&vCenter=true">
     </a>
-    <a href="https://github.com/ibraralam22/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ibraralam22&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-    </a>
+  </h1>
+  
+  <!-- Professional Banner -->
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ibrar%20Alam&fontSize=42&fontAlign=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlign=70&descAlignY=60"/>
+  
 </div>
-<br><br><br><br><br><br><br><br><br>
-<div align=center>
-  <a href="https://github.com/ibraralam22github-readme-stats">
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraralam22&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
-  </a>
+
+<div align="center">
+  
+  <!-- Professional Tagline -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Full+Stack+Developer;🚀+Software+Engineer;☁️+Cloud+Enthusiast;🌟+Open+Source+Contributor;&center=true&width=500&height=45&size=20&duration=3000&pause=1000&color=64748b&background=00000000">
+  </h3>
+  
+  <!-- Professional Introduction -->
+  <p>
+    <strong>Passionate about creating innovative solutions and building scalable applications</strong><br>
+    <em>Transforming ideas into reality through code, one commit at a time</em>
+  </p>
+  
 </div>
-<br>
+
+<div align="right">
+  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+  
+  ```typescript
+  const ibraralam = {
+    name: "Ibrar Alam",
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
+    currentFocus: ["Web Development", "Cloud Computing", "Open Source"],
+    languages: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+    passions: ["Problem Solving", "Innovation", "Continuous Learning"],
+    funFact: "I love traveling and photography 📷"
+  };
+  ```
+  
+</div>
+
+### 💼 Professional Focus
+- 🔭 **Currently Working On:** Building scalable web applications with modern technologies
+- 🌱 **Learning Journey:** Exploring cloud architectures and microservices
+- 👯 **Collaboration:** Open to collaborating on innovative frontend & backend projects
+- 💡 **Interests:** AI/ML integration, DevOps practices, and user experience design
+
+### 🎯 Current Goals
+- 📚 Mastering advanced React patterns and Next.js optimization
+- ☁️ Deep diving into AWS and cloud-native development
+- 🤝 Contributing to open-source projects and building community
+- 🚀 Developing SaaS applications with modern tech stacks
+
+### 📫 Let's Connect
+- 💼 **LinkedIn:** [Connect with me professionally](https://www.linkedin.com/in/alam1561/)
+- 📧 **Email:** ibraralam.dev@gmail.com
+- 🌐 **Portfolio:** Coming Soon...
+- 💬 **Ask me about:** JavaScript, React, Node.js, Python, and Web Development
+
+---
+
+
+
+## 💻 Technical Skills & Tools
+
+<div align="center">
+
+### 🚀 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚛️ Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+### 🛠️ Backend Technologies
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🔧 Tools & Design
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alam1561/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hi_ibraralam/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ibraralam22/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibraralam22)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](mailto:ibraralam.dev@gmail.com)
+
+</div>
+
+---
+  
+
+
+## 📊 GitHub Analytics & Performance
+
+<div align="center">
+  
+  <!-- GitHub Stats Cards -->
+  <div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ibraralam22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0&icon_color=10b981"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraralam22&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0"/>
+  </div>
+  
+  <!-- GitHub Streak Stats -->
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibraralam22&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=10b981&fire=f59e0b&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=6366f1&sideLabels=6366f1&dates=64748b"/>
+  </div>
+  
+  <!-- GitHub Activity Graph -->
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibraralam22&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=10b981&point=f59e0b&area_color=6366f1&area=true"/>
+  </div>
+  
+  <!-- GitHub Trophies -->
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=ibraralam22&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+  </div>
+  
+</div>
+
+---
+
+## 🚀 Current Projects & Highlights
+
+<div align="center">
+
+### 🔥 Featured Work
+- 🌟 **E-commerce Platform** - Full-stack MERN application with payment integration
+- 📱 **Task Management App** - React Native mobile app with real-time collaboration
+- 🤖 **AI Chat Bot** - Python-based conversational AI with NLP capabilities
+- 🎨 **Portfolio Website** - Modern React portfolio with smooth animations
+
+### 📈 Currently Learning
+- 🚀 **Advanced React Patterns** - Context API, Custom Hooks, and Performance Optimization
+- ☁️ **AWS Cloud Services** - Lambda, EC2, RDS, and serverless architecture
+- 🤖 **Machine Learning** - TensorFlow and data science fundamentals
+- 🎯 **TypeScript** - Advanced types and enterprise-level applications
+
+</div>
+
+---
+
+## 💭 Professional Motto
+
+<div align="center">
+  
+  ```
+  "Code is like humor. When you have to explain it, it's bad."
+  ```
+  
+  <p><em>Always striving to write clean, maintainable code that speaks for itself</em></p>
+  
+  ### 🌟 Core Values
+  **Innovation** • **Quality** • **Collaboration** • **Continuous Learning**
+  
+</div>
+
+---
+
+## 🎯 Fun Facts & Interests
+
+<div align="center">
+
+- 🌍 **Travel Enthusiast** - Exploring new cultures and perspectives
+- 📷 **Photography** - Capturing moments and stories through lens
+- 🎮 **Gaming** - Strategy games and puzzle solving
+- 📚 **Tech Reader** - Always up-to-date with latest tech trends
+- 🏃‍♂️ **Fitness** - Maintaining work-life balance through exercise
+- ☕ **Coffee Lover** - Fuel for late-night coding sessions
+
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- Footer with animated wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  
+  ### 🤝 Thanks for visiting my profile!
+  
+  <p>
+    <strong>💼 Open to new opportunities and collaborations</strong><br>
+    <em>Let's build something amazing together!</em>
+  </p>
+  
+  ![](https://hit.yhype.me/github/profile?user_id=ibraralam22)
+  
+</div>
