@@ -37,17 +37,39 @@
 ## 🛠️ Tech Stack
 
 <p align="center">  
-  <img alt="Flutter"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" />  
-  <img alt="Dart"          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" />  
-  <img alt="React"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />  
-  <img alt="TypeScript"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />  
-  <img alt="Node.js"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />  
-  <img alt="Next.js"       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" />  
-  <img alt="Firebase"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" />  
-  <img alt="MongoDB"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />  
-  <img alt="GraphQL"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-icon.svg" width="40" height="40" />  
-  <img alt="Tailwind CSS"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />  
+  <!-- Frontend & Mobile -->
+  <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
+  <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+<!--   <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /> -->
+  
+  <!-- Backend -->
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img alt="NestJS" src="https://nestjs.com/img/logo-small.svg" width="40" height="40" />
+
+  <!-- Programming Languages -->
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+
+  <!-- Databases & Auth -->
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
+  <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" />
+
+  <!-- Tools & DevOps -->
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
+
+  <!-- State Management -->
+  <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
+
+  <!-- API & Webhook -->
+  <img alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" />
 </p>
+
 
 ---
 
