@@ -77,10 +77,10 @@
 
 | Project       | Description                                 | Tech Stack                     |
 |---------------|---------------------------------------------|--------------------------------|
-| **ChatApp**   | Real-time messaging with push notifications | Flutter, Firebase              |
-| **TaskTracker** | Kanban-style task management web app      | React, Node.js, MongoDB        |
-| **E-Comm**    | Scalable e-commerce platform with payments  | Next.js, Stripe                |
-| **Portfolio** | Dynamic personal portfolio with blog        | Gatsby, GraphQL                |
+| **[servlivo-website](https://github.com/ibraralam22/servlivo-website)** | Premium marketing website for Servlivo with booking, support, and partner pages | Next.js, React, TypeScript, Tailwind CSS |
+| **[vendor-assignment](https://github.com/ibraralam22/vendor-assignment)** | Full-stack vendor management app with create, edit, list, and pagination flows | React, Node.js, MongoDB |
+| **[Realtime-chat-app](https://github.com/ibraralam22/Realtime-chat-app)** | Real-time chat web application for instant messaging | React, Node.js, Express |
+| **[Shopping-Hub](https://github.com/ibraralam22/Shopping-Hub)** | MERN e-commerce storefront for browsing and buying products online | React, Redux, Firebase |
 
 ---
 
