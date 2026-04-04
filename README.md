@@ -93,7 +93,7 @@
 
 ## Let’s Connect
 
-If you are building something exciting in **Flutter, web, or full-stack development**, I would be glad to connect and collaborate.
+If you are building something exciting in **Flutter, web, or full-stack development**, I would be happy to connect and collaborate.
 
 <div align="center">
   <a href="https://linkedin.com/in/ibraralam22">
