@@ -1,104 +1,133 @@
-<h1 align="center">
-  <!-- Uncomment and place your banner at /assets/banner.png if you add one to your repo -->
-  <!-- <img src="./assets/banner.png" alt="Banner" width="100%"/> -->
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ibraralam22&style=flat-square" alt="Profile Views"/>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=7F58FF&width=890&lines=Hey+there!+👋;I’m+Ibrar+Alam,+Software+Engineer+%26+Vibe+Coder;Building+Flutter+Apps+%26+Web+Apps+in+Real-time" 
-       alt="Typing SVG" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Ibrar%20Alam&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=16&descColor=00d4ff&animation=twinkling)
 
-<p align="center">
-  <em>Passionate about crafting delightful user experiences on mobile &amp; web</em>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Building+real-time+systems+that+scale+%E2%9A%A1;Flutter+%2B+Next.js+%2B+NestJS+%2B+Supabase+%F0%9F%94%A5;Shipping+products%2C+not+just+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-ibrar--alam.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ibrar-alam.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ibraralam22-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ibraralam22)
+[![Gmail](https://img.shields.io/badge/EMAIL-ibrar.alam2k22-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ibrar.alam2k22@gmail.com)
+[![Location](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3_DELHI-INDIA-00ff9d?style=for-the-badge&labelColor=0d1117)](https://ibrar-alam.vercel.app/)
 
-## 🔭 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=ibraralam22&style=for-the-badge&color=00ff9d&labelColor=0d1117&label=PROFILE+VIEWS)
 
-- 🏠 Based in Delhi, India  
-- 🎓 Software Engineer
-- ⚡️ Vibe Coder: I bring apps to life with smooth animations & real-time features  
-- 🌱 Continuously exploring modern architectures (Clean, BLoC, MVVM)  
-- 📫 Get in touch:  
-  <a href="https://github.com/ibraralam22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/__ibraralam" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/ibraralam22"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ibrar@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `$ cat whoami.json`
 
-<p align="center">  
-  <!-- Frontend & Mobile -->
-  <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
-  <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-<!--   <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /> -->
-  
-  <!-- Backend -->
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img alt="NestJS" src="https://nestjs.com/img/logo-small.svg" width="40" height="40" />
-
-  <!-- Programming Languages -->
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-
-  <!-- Databases & Auth -->
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
-  <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" />
-
-  <!-- Tools & DevOps -->
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-  <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
-
-  <!-- State Management -->
-  <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
-
-  <!-- API & Webhook -->
-  <img alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" />
-</p>
-
+```json
+{
+  "name"      : "Ibrar Alam",
+  "role"      : "Software Engineer @ DriveFixit",
+  "location"  : "New Delhi, India",
+  "portfolio" : "https://ibrar-alam.vercel.app/",
+  "stack"     : ["Flutter", "Next.js", "NestJS", "Supabase", "Prisma"],
+  "focus"     : ["Real-time Systems", "Cross-platform Apps", "Scalable APIs"],
+  "currently" : "Building roadside assistance platform w/ live tracking",
+  "open_to"   : ["Collaborations", "Open Source", "Freelance Projects"]
+}
+```
 
 ---
 
-## 🚀 Latest Projects
+## `$ ls ./tech-stack`
 
-| Project       | Description                                 | Tech Stack                     |
-|---------------|---------------------------------------------|--------------------------------|
-| **ChatApp**   | Real-time messaging with push notifications | Flutter, Firebase              |
-| **TaskTracker** | Kanban-style task management web app      | React, Node.js, MongoDB        |
-| **E-Comm**    | Scalable e-commerce platform with payments  | Next.js, Stripe                |
-| **Portfolio** | Dynamic personal portfolio with blog        | Gatsby, GraphQL                |
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+
+**Frontend & Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-18181B?style=flat-square&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend & APIs**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Databases & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## `$ ls ./projects --live`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibraralam22&theme=midnight-purple&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ibraralam22&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="385" />
-</p>
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| 🔧 **DriveFixit** | Roadside assistance w/ real-time mechanic tracking & booking | `Flutter` `NestJS` `Supabase` `WebSockets` | [site](https://drivefixit.in)|
+| 💸 **Paylance** | Payments platform w/ scalable full-stack architecture | `Next.js` `Supabase` `Prisma` | [site](https://paylance.co.in) |
+| 🛍 **Soouqna** | E-commerce with vendor dashboard, inventory & admin control | `Next.js` `MongoDB` `REST` | [site](https://soouqna.com) · [vendor](https://seller.soouqna.com) |
+| 💍 **ShaadiKarwadu** | Wedding planner app with matchmaking & vendor workflows | `Flutter` `Next.js` `Firebase` |
+| 🏢 **Custom CRM** | Full-stack CRM: RBAC, auth flows, dashboards, REST APIs | `NestJS` `React` `PostgreSQL` | `// private repo` |
 
 ---
 
-## 💬 Let’s Collaborate
+## `$ github --stats`
 
-I’m always open to:
+<div align="center">
 
-- Building innovative mobile & web applications  
-- Open-source contributions & community talks  
-- Pair programming and hackathons  
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ibraralam22&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=00ff9d&fire=ff79c6&currStreakLabel=00d4ff&sideNums=bd93f9&sideLabels=848d97&dates=848d97"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibraralam22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00ff9d&text_color=e6edf3&count_private=true"/>
 
-Feel free to **⭐️** this repo and drop me a line on LinkedIn!  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraralam22&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e6edf3&langs_count=8"/>
+
+</div>
+
+---
+
+## `$ ./contact --open`
+
+> _I don't just write code — I ship products._
+> Open to collabs, freelance work, and interesting ideas.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-ibrar--alam.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ibrar-alam.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-ibraralam22-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ibraralam22)
+[![Email](https://img.shields.io/badge/Drop_an_Email-ibrar.alam2k22-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ibrar.alam2k22@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// crafted with intent. shipped with precision.
+```
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=80&section=footer)
+
+</div>
