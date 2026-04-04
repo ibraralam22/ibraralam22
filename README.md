@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-ibrar--alam.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ibrar-alam.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-ibraralam22-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ibraralam22)
-[![Gmail](https://img.shields.io/badge/EMAIL-ibrar.alam2k22-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ibrar.alam2k22@gmail.com)
 [![Location](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3_DELHI-INDIA-00ff9d?style=for-the-badge&labelColor=0d1117)](https://ibrar-alam.vercel.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ibraralam22&style=for-the-badge&color=00ff9d&labelColor=0d1117&label=PROFILE+VIEWS)
